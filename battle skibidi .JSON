@@ -1,0 +1,42 @@
+{
+	"version": "Loading..",
+
+
+	"showRate": "2",
+
+
+
+
+	"ironsdk": "1a9f264e5",
+	"ironbanner": "DefaultBanner",
+	"ironinter": "DefaultInterstitial",
+	"ironreward": "DefaultRewardedVideo",
+
+	"unityid": "5330708",
+		"unitybanner": "Banner_Android",
+			"unityinter": "Interstitial_Android",
+				"unityreward": "Rewarded_Android",
+
+	
+	"onesignalid": "3d17535e-bf1f-4b30-81a6-a81bfea25de3",
+	
+	"admobbannerId": "ca-app-pub-8126478757199298/6246136424",
+	"admobInterId": "ca-app-pub-8126478757199298/7994332362",
+	"admobReward": "ca-app-pub-8126478757199298/7611188986",
+
+
+
+"adsSwitch detail ": " 1:admob 2unity 3:iron  0:auto",
+"adsSwitchInter": "1",
+"adsSwitchBanner": "1",
+"adsSwitchReward": "1",
+
+"adscounter": "1"
+
+	
+
+
+
+
+
+}
